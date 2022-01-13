@@ -2,9 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import { Button } from 'reactstrap';
-import NavBarV1 from './components/NavBarV1';
-import ButtonsV1 from './components/ButtonsV1';
-import FormV1 from './components/FormV1';
+import NavBarV1 from './components/NavBarV1/NavBarV1';
+import ButtonsV1 from './components/ButtonsV1/ButtonsV1';
+import FormV1 from './components/FormV1/FormV1';
 
 function App() {
   return (
