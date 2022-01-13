@@ -1,5 +1,11 @@
 # Collection of UI components
 
+If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
+
+Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
+
+❤️Manny thanks!❤️
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
