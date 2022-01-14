@@ -27,19 +27,19 @@ const FormV1 = (props) => {
         <Input type="text" name="address2" id="exampleAddress2" placeholder="Apartment, studio, or floor"/>
       </FormGroup>
       <Row form>
-        <Col md={6}>
+        <Col md={12}>
           <FormGroup>
             <Label for="exampleCity">City</Label>
             <Input type="text" name="city" id="exampleCity"/>
           </FormGroup>
         </Col>
-        <Col md={4}>
+        <Col md={12}>
           <FormGroup>
             <Label for="exampleState">State</Label>
             <Input type="text" name="state" id="exampleState"/>
           </FormGroup>
         </Col>
-        <Col md={2}>
+        <Col md={12}>
           <FormGroup>
             <Label for="exampleZip">Zip</Label>
             <Input type="text" name="zip" id="exampleZip"/>
