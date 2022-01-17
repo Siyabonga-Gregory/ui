@@ -5,6 +5,7 @@ import NavBarV1 from './components/NavBars/NavBarV1';
 import ButtonsV1 from './components/Buttons/ButtonsV1';
 import FormV1 from './components/Forms/FormV1';
 import Cards from './components/Cards/CardsV1';
+import ModalV1 from './components/Modals/ModalV1';
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
           <div> <NavBarV1 /></div><hr />
           <div> <ButtonsV1 /></div> <hr />
           <div> <FormV1 /></div> <hr />
-          <div> <Cards /></div><hr />
+          <div> <ModalV1 /></div><hr />
         </div>
       </header>
     </div>
