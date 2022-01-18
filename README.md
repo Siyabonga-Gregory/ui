@@ -4,7 +4,9 @@ If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
 
 Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
 
-❤️Manny thanks!❤️
+❤️Many thanks!❤️
+
+![Screenshot_9](https://user-images.githubusercontent.com/19228713/149878828-87919fd0-a443-454d-b36a-7b25dd3b354e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
