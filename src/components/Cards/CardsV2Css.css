@@ -1,0 +1,26 @@
+.card{
+    border: none !important; 
+    border-radius: 0ch !important;
+}
+.cardDiv{
+    background-color: white;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.cardBody{
+    text-align: left;
+}
+.card-img-overlay{
+    padding: 0rem !important;
+    padding-top: 1rem !important;
+}
+.CardTitle{
+    font-weight: 900; 
+    text-align: left;
+    color:#F9A535;
+    font:bold 20px/18px Arial;
+    font-size:30px;
+    line-height:35px;
+    background-color: white;
+    border: none;
+}
