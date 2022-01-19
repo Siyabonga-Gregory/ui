@@ -13,7 +13,7 @@ export default function CardsV2() {
                 <Card inverse>
                     <CardImg
                         alt="Card image cap"
-
+                         src='Your image here'
                         width="100%"
                     />
 
