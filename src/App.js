@@ -7,6 +7,7 @@ import FormV1 from './components/Forms/FormV1';
 import CardsV1 from './components/Cards/CardsV1';
 import CardsV2 from './components/Cards/CardsV2';
 import ModalV1 from './components/Modals/ModalV1';
+import CarouselV1 from './components/Carousel/CarouselV1';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <div> <ModalV1 /></div><hr />
           <div> <CardsV1 /></div><hr />
           <div> <CardsV2 /></div><hr />
+          <div> <CarouselV1 /></div><hr />
         </div>
       </header>
     </div>
