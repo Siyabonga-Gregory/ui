@@ -24,3 +24,49 @@
     background-color: white;
     border: none;
 }
+.CardText{
+    text-align: left;
+    color:#000000;
+    font: normal normal normal 17px/26px Arial;
+    font-size:17px;
+    border: none;
+    margin-right:5rem;
+}
+.sign{
+    transform:rotate(-45deg);-webkit-transform: rotate(-45deg); 
+     border: solid white;
+     border-width: 0 3px 3px 0;
+     display: inline-block; 
+     padding: 3px;
+}
+.buttonsDiv{
+    padding-top: 1rem;
+}
+.continueButton{
+    border: none;
+    color: white;
+    background:#9DC74D !important;
+    padding: 15px 32px;
+    width:100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19pt;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-style: Visby Round CF;
+    font-weight: bold;
+}
+.callMeBackButton{
+    border: none;
+    color: white;
+    background:#F9A535 !important;
+    padding: 15px 32px;
+    width:100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
