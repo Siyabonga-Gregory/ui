@@ -33,7 +33,8 @@
     margin-right:5rem;
 }
 .sign{
-    transform:rotate(-45deg);-webkit-transform: rotate(-45deg); 
+     transform:rotate(-45deg);
+     -webkit-transform: rotate(-45deg); 
      border: solid white;
      border-width: 0 3px 3px 0;
      display: inline-block; 
