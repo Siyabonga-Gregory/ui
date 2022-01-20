@@ -1,13 +1,13 @@
 import React from 'react'
-import { Card, CardImg, CardImgOverlay, CardTitle, CardText, Button } from 'reactstrap';
-import CardsV2Css from './CardsV2Css.css';
+import { Card, CardImg, CardImgOverlay, CardText, Button } from 'reactstrap';
+import  './CardsV2Css.css';
 
 
 export default function CardsV2() {
     return (<>
         <div className='cardDiv'>
             <div className='CardTitle'>
-                Are you sure you want to stop the application process?
+               Your Title Here e.g Hello Ghost Coders
             </div>
             <div>
                 <Card inverse>
@@ -18,17 +18,16 @@ export default function CardsV2() {
                     />
 
                     <CardImgOverlay>
-                        <CardText className='CardText'>
+                        <CardText>
                             Text here
                         </CardText>
-                        <CardText className='CardText'>
+                        <CardText >
                             Text here
                         </CardText>
                     </CardImgOverlay>
 
-                    <div className='buttonsDiv'>
-                        <div><Button className='continueButton'>Continue with application online<i className='sign'></i></Button></div>
-                        <div><Button className='callMeBackButton'>Call me back<i className='sign'></i></Button></div>
+                    <div>
+                        <div><Button>Your Button Text Here<i className='sign'></i></Button></div>
                     </div>
                 </Card>
             </div>
