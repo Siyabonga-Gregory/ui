@@ -21,8 +21,6 @@ function App() {
           <div> <ModalV1 /></div><hr />
           <div> <CardsV1 /></div><hr />
           <div> <CardsV2 /></div><hr />
-          <div> <CarouselV1 /></div><hr />
-          <div> <CarouselV2 /></div><hr />
         </div>
       </header>
     </div>

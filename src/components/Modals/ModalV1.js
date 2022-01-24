@@ -76,7 +76,6 @@ export  default class ModalV1 extends React.Component {
               <Button onClick={this.toggleAlert}>OK</Button>
             </ModalFooter>
           </Modal>
-          
         </React.Fragment>
       )
     }
