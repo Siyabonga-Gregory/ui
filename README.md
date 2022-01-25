@@ -13,7 +13,6 @@ Thank you for coming by my repo and please don't forget to give this repo a star
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`

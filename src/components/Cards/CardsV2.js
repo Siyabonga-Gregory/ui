@@ -2,7 +2,6 @@ import React from 'react'
 import { Card, CardImg, CardImgOverlay, CardText, Button } from 'reactstrap';
 import  './CardsV2Css.css';
 
-
 export default function CardsV2() {
     return (<>
         <div className='cardDiv'>
